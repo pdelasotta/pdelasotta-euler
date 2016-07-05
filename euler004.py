@@ -1,3 +1,4 @@
+# time         1.96 real         1.45 user         0.06 sys
 import sys
 import math
 
@@ -6,6 +7,7 @@ The largest palindrome made from the product of
 two 2-digit numbers is 9009 = 91 * 99.
 Find the largest palindrome made from
 the product of two 3-digit numbers."""
+
 
 
 def main():

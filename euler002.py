@@ -12,6 +12,6 @@ def main():
         prev = curr
         curr = fibs
     print suma
-
+# time         0.06 real         0.01 user         0.02 sys
 if __name__ == '__main__':
     main()

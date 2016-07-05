@@ -1,4 +1,4 @@
-
+# time result:         0.06 real         0.01 user         0.02 sys
 import sys
 
 
@@ -12,6 +12,7 @@ def euler001(max):
 
 def main():
     print euler001(1000)
+
 
 
 if __name__ == '__main__':
