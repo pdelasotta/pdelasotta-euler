@@ -4,4 +4,4 @@ They're a nice challenge. Don't look at them if you ever want to try and do them
 
 Some files include the original problem in the comments, which where provided by the wonderful nerds at [http://projecteuler.net](http://projecteuler.net).
 
-![img](https://projecteuler.net/profile/p.delasotta.png)
+![](https://projecteuler.net/profile/p.delasotta.png)
